@@ -9,9 +9,11 @@ import React from 'react';
 
 export default function HomePage() {
   return (
-    <h1>
-      Offline-test
-    </h1>
-    <p>New content should be loaded now?</p>
+  	<>
+	    <h1>
+	      Offline-test
+	    </h1>
+	    <p>New content should be loaded now?</p>
+    </>
   );
 }
