@@ -1,4 +1,11 @@
 [[headers]]
   for = "/sw.js"
   [headers.values]
-    cache-control = "max-age=0,private,no-cache,no-store,proxy-revalidate,no-transform"
+    cache-control = '''
+    max-age=0,
+    private,
+    no-cache,
+    no-store,
+    proxy-revalidate,
+    no-transform'''
+    pragma = "no-cache"
