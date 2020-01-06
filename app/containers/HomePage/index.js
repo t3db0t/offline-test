@@ -14,6 +14,7 @@ export default function HomePage() {
 	      Offline-test
 	    </h1>
 	    <p>New content should be loaded now?</p>
+	    <p>How about more new content?</p>
     </>
   );
 }
