@@ -12,5 +12,6 @@ export default function HomePage() {
     <h1>
       Offline-test
     </h1>
+    <p>New content should be loaded now?</p>
   );
 }
