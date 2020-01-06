@@ -15,6 +15,7 @@ export default function HomePage() {
 	    </h1>
 	    <p>New content should be loaded now?</p>
 	    <p>How about more new content?</p>
+	    <p>And one more time</p>
     </>
   );
 }
