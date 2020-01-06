@@ -95,6 +95,11 @@ module.exports = require('./webpack.base.babel')({
       // this is applied before any match in `caches` section
       excludes: ['.htaccess'],
 
+      ServiceWorker: {
+        events: true,
+      },
+      responseStrategy: 'network-first',
+
       caches: {
         main: [':rest:'],
 

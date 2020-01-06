@@ -17,6 +17,7 @@ export default function HomePage() {
       <p>Still trying</p>
       <p>Arrghhhh</p>
       <p>Maybe maybe??</p>
+      <p>Tried adding some config option to offline-plugin</p>
     </>
   );
 }
