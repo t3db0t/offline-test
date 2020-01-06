@@ -15,6 +15,7 @@ export default function HomePage() {
       <p>How about more new content?</p>
       <p>And one more time</p>
       <p>Still trying</p>
+      <p>Arrghhhh</p>
     </>
   );
 }
