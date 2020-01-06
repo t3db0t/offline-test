@@ -18,6 +18,7 @@ export default function HomePage() {
       <p>Arrghhhh</p>
       <p>Maybe maybe??</p>
       <p>Tried adding some config option to offline-plugin</p>
+      <p>Please fucking work</p>
     </>
   );
 }
